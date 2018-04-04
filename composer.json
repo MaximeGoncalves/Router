@@ -1,0 +1,13 @@
+{
+    "name": "softease/router",
+    "description": "Router pour créer un model MVC sur de petites apps",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Maxime Gonçalves",
+            "email": "maximegoncalves93@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
